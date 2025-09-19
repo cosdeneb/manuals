@@ -30,7 +30,7 @@ cd ./isaacsim 에 들어간 뒤, ./isaac-sim.selector.sh --base 입력하면 완
 
 ## 2. How to use both ROS1 and ROS2?
 
-ROS 사용법
+*ROS 사용법
 
 [ROS1]
 ros1_on : Activating ROS1 (Noetic) … 뜸
@@ -58,7 +58,7 @@ function ros2_on() {
 
 참고: https://qlalf-smithy.tistory.com/18
 
-ROS2 workspace 만드는법
+*ROS2 workspace 만드는법
 
 [step 1]
 mkdir -p ~/WORK_SPACE_NAME/src && cd ~/WORK_SPACE_NAME/src를 하여 폴더에 들어감
