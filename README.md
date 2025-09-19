@@ -28,7 +28,7 @@ cd ./isaacsim 에 들어간 뒤, ./isaac-sim.selector.sh --base 입력하면 완
 
 참고: https://isaac-sim.github.io/IsaacLab/v2.0.2/source/setup/installation/binaries_installation.html#installing-isaac-sim
 
-# 2. How to use both ROS1 and ROS2?
+## 2. How to use both ROS1 and ROS2?
 
 ROS 사용법
 
