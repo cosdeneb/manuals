@@ -1,5 +1,5 @@
 # manuals
-1. How to use Isaac Sim?
+## 1. How to use Isaac Sim?
 
 Issac Lab 사용법
 
@@ -28,7 +28,7 @@ cd ./isaacsim 에 들어간 뒤, ./isaac-sim.selector.sh --base 입력하면 완
 
 참고: https://isaac-sim.github.io/IsaacLab/v2.0.2/source/setup/installation/binaries_installation.html#installing-isaac-sim
 
-2. How to use both ROS1 and ROS2?
+# 2. How to use both ROS1 and ROS2?
 
 ROS 사용법
 
@@ -45,7 +45,7 @@ ros2_on : Activating ROS2 (Foxy) … 뜸
 bash.rc를 수정하기 위해서는 gedit ~/.bashrc 입력하면 되고, source ~/.bashrc 로 실행 가능
 
 [아래는 .bashrc 하단에 추가한 코드와 같음 ]
-# ROS 환경을 위한 함수
+ROS 환경을 위한 함수
 function ros1_on() {
   echo "Activating ROS1 (Noetic)..."
   source /opt/ros/noetic/setup.bash
